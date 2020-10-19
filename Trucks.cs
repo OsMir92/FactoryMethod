@@ -6,7 +6,8 @@
     {
         public string GetDescription()
         {
-            return "A really nice Truck, in fact it's the nicest Truck you will ever see.";
+            return "A really nice Truck, in fact it's the nicest Truck you will ever see." +
+                "\nAnd it's on route with the assigned package.";
         }
     }
 }
